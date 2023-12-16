@@ -3,7 +3,8 @@
 <h2>🙎 Sobre mim</h2>
 
 - 👨‍💻 Sou testador de Software
-- 🖥️ Estou cursando TI
+- 💻 Estou cursando TI
+- 🖥️ Futuro Dev back and
 - 🎮 Jogo no tempo livre
 
 <h2>⚒️ Linguagens e Ferramentas</h2>
