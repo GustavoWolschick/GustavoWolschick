@@ -16,7 +16,7 @@
   <img align="center" alt="Gustavo-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gustvo-VisualFoxPRO" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png?20180430034526">
 </div>
-<h2>Contatos </h2>
+<h2>📱Contatos </h2>
 
 <div>
   <a href = "mailto:gustavorw7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
