@@ -1,10 +1,12 @@
-<h1>👋 Olá, eu sou o GustavoWolschick</h1>
+<h1>👋 Olá, eu sou o Gustavo Rizon Wolschick</h1>
 
+<h2>🙎 Sobre mim</h2>
 
 - 👨‍💻 Sou testador de Software
 - 🖥️ Estou cursando TI
-- 
-##
+- 🎮 Jogo no tempo livre
+
+<h2>⚒️ Linguagens e Ferramentas</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
