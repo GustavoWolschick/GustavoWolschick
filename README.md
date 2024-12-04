@@ -2,8 +2,8 @@
 
 <h2>🙎 Sobre mim</h2>
 
-- 👨‍💻 Sou testador de Software
-- 💻 Estou cursando TI
+- 💻 Sou técnico em informática
+- 👨‍💻 Trabalho com teste de Software
 - 🖥️ Futuro Dev back and
 - 🎮 Jogo no tempo livre
 
@@ -14,7 +14,7 @@
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gustavo-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Gustvo-VisualFoxPRO" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png?20180430034526">
+   <img align="center" alt="Gustavo-PHP" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png)">
 </div>
 <h2>📲 Contatos </h2>
 
