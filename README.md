@@ -4,7 +4,6 @@
 
 - 💻 Sou técnico em informática
 - 👨‍💻 Trabalho com teste de Software
-- 🖥️ Futuro Dev back and
 - 🎮 Jogo no tempo livre
 
 <h2>⚒️ Linguagens e Ferramentas</h2>
