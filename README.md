@@ -13,7 +13,7 @@
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gustavo-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Gustavo-PHP" height="30" width="40" src="https://cdnlogo.com/logos/r/85/react.svg](https://e7.pngegg.com/pngimages/809/483/png-clipart-php-php.png">
+  <img align="center" alt="Gustavo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
 </div>
 <h2>📲 Contatos </h2>
 
